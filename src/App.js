@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { Article, Brand, Cta, Navbar } from "./components";
+import { Brand, Cta, Navbar } from "./components";
 import {
   Footer,
   Blog,
